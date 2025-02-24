@@ -54,6 +54,6 @@ python Image-Setgano.py
 
 ## Author
 
-- [Abhay Kushwah](
+- [Abhay Kushwah](http://github.com/abhaykushwah)
 
 
